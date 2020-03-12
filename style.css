@@ -1,0 +1,21 @@
+article {
+    font-size: 24px;
+ }
+ footer {
+    font-size: 12px;
+ }
+#header{
+    margin-top: 50px;
+    width: 100%;
+}
+.center-text{
+    text-align: center;
+}
+.article{
+    width: 75%;
+    text-justify: left;
+}
+main{
+    padding: 5%;
+    margin-left: 15%;
+}
